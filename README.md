@@ -5,7 +5,7 @@ My name is Eyosiyas Tadele and I'm a software developer/fullstack engineer. I'm 
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Apple-Mac?style=flat&logo=apple&logoColor=#999999&color=0D0727)
+![](https://img.shields.io/badge/OS-Apple-Mac?style=flat&logo=apple&logoColor=999999&color=0D0727)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=black&color=0D0727)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&color=0D0727)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=0D0727)

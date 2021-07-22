@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/dotjose/EyosiyasTadele/master/profile-banner.png)
 
 # Hello! <img src="https://emoji.slack-edge.com/TB1C3AF1A/party-parrot/f402361e817f5d0d.gif" width="30px">
-My name is Eyosiyas Tadele and I'm a software developer/fullstack engineer. I'm from Ethiopia, A.A, currently working at Yellow Card Financial. Big interest in open source software and community and passionated to do AI, ML and serverless projects. Reach out and let's grow together!
+My name is Eyosiyas Tadele and I'm a software developer/fullstack engineer. I'm from Ethiopia, A.A, currently working at Sepa Cyper Technologies. Big interest in open source software and community and passionated to do AI, ML and serverless projects. Reach out and let's grow together!
 
 
 ## 🔧 Technologies & Tools
